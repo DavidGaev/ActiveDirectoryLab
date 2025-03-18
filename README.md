@@ -45,46 +45,27 @@ How Group Policies are Setup:  <br/>
 <img src="https://i.imgur.com/ZwsBfac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-You can now Right click on your domain name and click on "Create a GPO": <br/>
+This is the Group Policy Page: <br/>
 <img src="https://i.imgur.com/ItRTSxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+You can now Right click on your domain name and click on "Create a GPO":  <br/>
 <img src="https://i.imgur.com/fZZwtX1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/fZZwtX1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+If we want to See for example a Password Policy, We select Policies, then Windows Settings, Security Settings: <br/>
 <img src="https://i.imgur.com/nTleuA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/cF4duZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To Edit the policy we Right Click and click Properties:  <br/>
+<img src="https://i.imgur.com/X8QLXh7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/h5PALef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
+If we want to add our Group Policy to an Organization Unit, we can simply drag our Policy into the Organization Unit we need them in:  <br/>
 <img src="https://i.imgur.com/jV7Yez4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launching Active Directory: <br/>
-<img src="https://i.imgur.com/I0zSP5a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/wWe7FfC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/flKEP8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+There are all types of Interesting things to do in Active Directory. I wish to one day be able to be in an organization where I can do some of these things. 
 
 </p>
 
