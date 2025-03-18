@@ -41,6 +41,22 @@ As you can see, our domain controller now shows up:  <br/>
 <img src="https://i.imgur.com/d51aWUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+If we want to add Users,Right click in your OU and click NEW and then User:  <br/>
+<img src="https://i.imgur.com/wWe7FfC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+You can then fill out information and on the next page set up the password:  <br/>
+<img src="https://i.imgur.com/flKEP8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+With the Users, you can do things like Reset Passwords. All you do is go into the Users and Computers and right click on your user:  <br/>
+<img src="https://i.imgur.com/NpIbw4r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+This is how the password reset window looks like:  <br/>
+<img src="https://i.imgur.com/ddalsOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 How Group Policies are Setup:  <br/>
 <img src="https://i.imgur.com/ZwsBfac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
