@@ -45,7 +45,7 @@ How Group Policies are Setup:  <br/>
 <img src="https://i.imgur.com/ZwsBfac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launching Active Directory: <br/>
+You can now Right click on your domain name and click on "Create a GPO": <br/>
 <img src="https://i.imgur.com/ItRTSxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
