@@ -33,11 +33,11 @@ Then Install it:  <br/>
 <img src="https://i.imgur.com/AFEjLns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now:  <br/>
+Now find User and Computers under "Administrative Tools":  <br/>
 <img src="https://i.imgur.com/eghuXue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+As you can see, our domain controller now shows up:  <br/>
 <img src="https://i.imgur.com/d51aWUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
