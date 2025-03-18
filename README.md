@@ -21,19 +21,19 @@ Launching Active Directory: <br/>
 <img src="https://i.imgur.com/TfJGYnF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Now you Must promote this to a domain controller:  <br/>
 <img src="https://i.imgur.com/tEOnXjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Use the "Add a new Forest" <br/>
 <img src="https://i.imgur.com/Go7wvQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Then Install it:  <br/>
 <img src="https://i.imgur.com/AFEjLns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Now:  <br/>
 <img src="https://i.imgur.com/eghuXue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
