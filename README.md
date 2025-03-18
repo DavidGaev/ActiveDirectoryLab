@@ -50,7 +50,7 @@ Launching Active Directory: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/yWLrmqt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fZZwtX1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
